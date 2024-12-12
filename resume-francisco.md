@@ -1,3 +1,7 @@
+
+# Francisco Castañeda
+*Engineering Manager | Team Builder | Platform Developer*
+
 # WHO I AM
 
 I am a hands-on engineering manager with a passion for building high-performing teams. My approach combines mentoring, training, and inspiration to create the best possible teams. As a technical manager, I make decisions that bring value to the business while maintaining a healthy balance between delivery and technical debt management, ensuring scalable solutions that adapt to future business needs.
@@ -38,6 +42,7 @@ Key strengths:
 - Technologies: Docker, Kubernetes, Kafka, AWS, Ansible
 - Methodologies: Agile (SCRUM), Object-Oriented Design, SOLID principles
 - Soft Skills: Leadership, Negotiation, Training, Sales
+- Trading: During the last 2-3 years I have been studying the markets, and played with trading platforms and trading API's. That has given me basic knowledge of the market structure and the different players. 
 
 # LANGUAGES
 
@@ -45,13 +50,17 @@ Key strengths:
 - Native Spanish
 - Basic Portuguese
 
-# EDUCATION
+## Education
 
-- Mountain Goat Software - ScrumAlliance - [credentials](https://www.scrumalliance.org/community/profile/fcastaneda2) 
-  - Certified Scrum Master
-  - Advanced Certified Scrum Master 
-- Panama Technological University - Computer Systems Engineering [1992 - 1998]
+### Mountain Goat Software - ScrumAlliance
+- Certified Scrum Master
+- Advanced Certified Scrum Master 
+- [View ScrumAlliance Credentials](https://www.scrumalliance.org/community/profile/fcastaneda2)
 
-# REFERENCES
+### Panama Technological University
+*1992 - 1998*
+- Computer Systems Engineering
+
+## References
 
 Available upon request
